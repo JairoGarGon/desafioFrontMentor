@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: gainsboro;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.card{
+    margin: 0px auto;
+    width: 90vw;
+}
+.caja1{
+    background-color: white;
+}
+.titulocaja1{
+    color:rgb(20, 173, 173);
+    margin-top: 0;
+}
+.titulocaja{
+    margin: 0;
+    color:rgba(255, 255, 255, 0.808);   
+}
+.contenido{
+    padding: 20px;
+    margin-left: 15px;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 0.726);
+}
+.subtitulocaja1{
+    color:rgba(162, 226, 43, 0.993);
+}
+.parrafo1{
+    color:rgba(169, 169, 169, 0.788);
+    line-height: 28px;
+}
+.caja2{
+    color:white;
+    background-color: rgb(20, 173, 173);
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+.precio{
+    font-size: 36px;
+    margin: 20px auto 10px;
+}
+.precio span{
+    font-size: 18px;
+    color:rgba(255, 255, 255, 0.534);
+}
+.parrafo{
+    margin-bottom: 50px;
+}
+.boton{
+    background-color:rgba(162, 226, 43, 0.993);
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.151);
+    padding: 15px 110px;
+    border-radius: 5px;
+    margin:30px 0;
+}
+.caja3{
+    background-color: rgb(46, 221, 221);
+    color: rgba(255, 255, 255, 0.685);   
+}
+.lista{
+    list-style: none;
+    margin: 10px 0;
+    padding:0;
+}
